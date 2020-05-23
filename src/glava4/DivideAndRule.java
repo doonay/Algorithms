@@ -15,6 +15,6 @@ public class DivideAndRule {
         int l = 1680;
         int h = 640;
         int max = divide(l, h);
-        System.out.println("Максимально возможные равные участки для надела = " + max + "x" + max);
+        System.out.println("Максимально возможные равные квадратные участки для надела = " + max + "x" + max);
     }
 }
