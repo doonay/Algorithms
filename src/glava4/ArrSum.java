@@ -1,5 +1,5 @@
 package glava4;
-
+//4.1 Напишите код для функции sum
 public class ArrSum {
     static Integer sum(int[] arr) {
         int total = 0;

@@ -1,7 +1,7 @@
 package glava4;
 
 import java.util.Arrays;
-
+//4.1 Напишите код для функции sum (Рекурсия)
 public class RecursiveSum {
     static int count = 0;
     static int length;

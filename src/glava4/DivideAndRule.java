@@ -1,5 +1,5 @@
 package glava4;
-//САМ НАПИСАЛ!
+//Алгоритм Евклида
 public class DivideAndRule {
     private static Integer divide(int l, int h){
         if (l == h) return l; //Базовый случай
