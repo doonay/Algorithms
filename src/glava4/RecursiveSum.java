@@ -13,7 +13,6 @@ public class RecursiveSum {
                 System.out.println("Незавершенный рекурсивный метод №" + count + " завершился и просуммировался с результатом предыдущего метода");
                 count--;
             }
-
             return 0;
         } else {
             count++;
